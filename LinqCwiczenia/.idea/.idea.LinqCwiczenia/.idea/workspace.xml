@@ -8,18 +8,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8288566a-7863-4d9c-b8b2-380900712407" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinqCwiczenia.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LinqCwiczenia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/LinqTasks.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/LinqTasks.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Models/Dept.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Models/Dept.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2gP0RHGoP2Gt4fWwQflnZzr9DDG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,20 +35,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.ConsoleApp1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\s28052\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\s28052\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\s28052\\AppData\\Local\\Symbols\\src"
+      "C:\\Users\\Rozalia\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Rozalia\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\Rozalia\\AppData\\Local\\Symbols\\src"
     ]
   }
 }]]></component>
@@ -73,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715583897035</updated>
       <workItem from="1715583898142" duration="2794000" />
+      <workItem from="1715963209730" duration="6136000" />
     </task>
     <servers />
   </component>
